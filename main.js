@@ -21,11 +21,10 @@ window.onload = function () {
   google.accounts.id.renderButton(
     document.getElementById("buttonDiv"), {
     theme: "filled_black",
-    size: "small",
+    size: "large",
     type: "standard",
     shape: "pill",
-    text: "$ {button.text}",
-    locale: "ru",
+    locale: "pt-BR",
     logo_alignment: "left",
   } // customization attributes
   );
