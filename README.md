@@ -18,11 +18,11 @@
    2. Escopos
       1. Clique em adicionar ou remover escopos e escolha: `.../auth/userinfo.email`, `.../auth/userinfo.profile` e depois clique em atualizar.
       2. Clique em salvar e continuar
-      3. Usuários de teste
-      4. Clique em ADD users e adicione os usuários de teste
-      5. Clique em salvar e continuar
-      6. Resumo
-      7. Revise as informações
+   3. Usuários de teste
+      1. Clique em ADD users e adicione os usuários de teste
+      2. Clique em salvar e continuar
+   4. Resumo
+      1. Revise as informações
 4. Clique em credenciais e depois em criar credenciais
    1. Escolha ID do client OAuth
    2. Tipo de aplicativo: Aplicativo da Web
